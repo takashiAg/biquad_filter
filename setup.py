@@ -18,9 +18,9 @@ setup(
     long_description=readme,
     author='Ryosuke Ando',
     author_email='ryo@ando.link',
-    install_requires=['math'],
     url='https://github.com/takashiAg/biquad_filter.git',
     license=license,
-    packages=find_packages(exclude=('tests', 'docs'))
+    packages=find_packages(exclude=('tests', 'docs')),
+    test_suite='tests'
 )
 

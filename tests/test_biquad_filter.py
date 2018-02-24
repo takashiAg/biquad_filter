@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from context import biquad_filter
+from .context import biquad_filter
 
 import unittest
 

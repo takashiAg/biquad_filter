@@ -7,19 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e2a1b94-4d15-4a83-a122-7917627fdde0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/biquad_filter/biquad.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/biquad_filter/lpf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/test_biquad_filter.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/biquad_filter/core.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/biquad_filter/helpers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test_advanced.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/test_basic.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/biquad_filter/__init__.py" afterPath="$PROJECT_DIR$/biquad_filter/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setup.py" afterPath="$PROJECT_DIR$/setup.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/__init__.py" afterPath="$PROJECT_DIR$/tests/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/context.py" afterPath="$PROJECT_DIR$/tests/context.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/test_biquad_filter.py" afterPath="$PROJECT_DIR$/tests/test_biquad_filter.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,46 +21,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="biquad.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="biquad.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/biquad_filter/biquad.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="34" />
+            <state relative-caret-position="217">
+              <caret line="47" column="56" lean-forward="false" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="56" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lpf.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/biquad_filter/lpf.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#20#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/biquad_filter/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_biquad_filter.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/test_biquad_filter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <element signature="e#25#58#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -91,7 +47,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/LICENSE" />
-        <option value="$PROJECT_DIR$/setup.py" />
         <option value="$PROJECT_DIR$/biquad_filter/helpers.py" />
         <option value="$PROJECT_DIR$/tests/context.py" />
         <option value="$PROJECT_DIR$/biquad_filter/biquad_filter.py" />
@@ -99,11 +54,12 @@
         <option value="$PROJECT_DIR$/tests/__init__.py" />
         <option value="$PROJECT_DIR$/tests/test_basic.py" />
         <option value="$PROJECT_DIR$/tests/test_advanced.py" />
-        <option value="$PROJECT_DIR$/tests/test_biquad_filter.py" />
         <option value="$PROJECT_DIR$/biquad_filter/lpf.py" />
         <option value="$PROJECT_DIR$/biquad_filter/biquad.py" />
         <option value="$PROJECT_DIR$/biquad_filter/__init__.py" />
         <option value="$PROJECT_DIR$/tests/test_lpf.py" />
+        <option value="$PROJECT_DIR$/tests/test_biquad_filter.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
       </list>
     </option>
   </component>
@@ -189,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_biquad_filter.py">
+  <component name="RunManager" selected="Python tests.Unittests for test_biquad_filter.BasicTestSuite.test1">
     <configuration default="false" name="Unittests in test_basic.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,6 +207,21 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_biquad_filter.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests for test_biquad_filter.BasicTestSuite.test1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="biquad_filter" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_biquad_filter.BasicTestSuite.test1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -317,18 +288,20 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_basic.py" />
       <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_advanced.py" />
       <item index="2" class="java.lang.String" itemvalue="Python.context" />
       <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_biquad_filter.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for test_biquad_filter.BasicTestSuite.test1" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_biquad_filter.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_basic.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_advanced.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python.context" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for test_biquad_filter.BasicTestSuite.test1" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_biquad_filter.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_basic.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_advanced.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python.context" />
       </list>
     </recent_temporary>
   </component>
@@ -346,26 +319,14 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_biquad_filter_py - 2018.02.24 at 20h 22m 39s.xml">
-      <configuration name="Unittests in test_biquad_filter.py" configurationId="tests" />
+    <history-entry file="Unittests_for_test_biquad_filter_BasicTestSuite_test1 - 2018.02.24 at 21h 37m 39s.xml">
+      <configuration name="Unittests for test_biquad_filter.BasicTestSuite.test1" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_biquad_filter_py - 2018.02.24 at 20h 22m 51s.xml">
-      <configuration name="Unittests in test_biquad_filter.py" configurationId="tests" />
+    <history-entry file="Unittests_for_test_biquad_filter_BasicTestSuite_test1 - 2018.02.24 at 21h 37m 41s.xml">
+      <configuration name="Unittests for test_biquad_filter.BasicTestSuite.test1" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_biquad_filter_py - 2018.02.24 at 20h 22m 55s.xml">
-      <configuration name="Unittests in test_biquad_filter.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_biquad_filter_py - 2018.02.24 at 20h 23m 01s.xml">
-      <configuration name="Unittests in test_biquad_filter.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_biquad_filter_py - 2018.02.24 at 20h 23m 29s.xml">
-      <configuration name="Unittests in test_biquad_filter.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_biquad_filter_py - 2018.02.24 at 20h 23m 33s.xml">
-      <configuration name="Unittests in test_biquad_filter.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_biquad_filter_py - 2018.02.24 at 20h 24m 21s.xml">
-      <configuration name="Unittests in test_biquad_filter.py" configurationId="tests" />
+    <history-entry file="Unittests_for_test_biquad_filter_BasicTestSuite_test1 - 2018.02.24 at 21h 40m 07s.xml">
+      <configuration name="Unittests for test_biquad_filter.BasicTestSuite.test1" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_test_biquad_filter_py - 2018.02.24 at 20h 24m 35s.xml">
       <configuration name="Unittests in test_biquad_filter.py" configurationId="tests" />
@@ -374,6 +335,18 @@
       <configuration name="Unittests in test_biquad_filter.py" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_test_biquad_filter_py - 2018.02.24 at 20h 25m 27s.xml">
+      <configuration name="Unittests in test_biquad_filter.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_biquad_filter_py - 2018.02.24 at 21h 33m 54s.xml">
+      <configuration name="Unittests in test_biquad_filter.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_biquad_filter_py - 2018.02.24 at 21h 37m 15s.xml">
+      <configuration name="Unittests in test_biquad_filter.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_biquad_filter_py - 2018.02.24 at 21h 37m 27s.xml">
+      <configuration name="Unittests in test_biquad_filter.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_biquad_filter_py - 2018.02.24 at 21h 37m 37s.xml">
       <configuration name="Unittests in test_biquad_filter.py" configurationId="tests" />
     </history-entry>
   </component>
@@ -406,7 +379,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -419,37 +392,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/context.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          <folding>
-            <element signature="e#25#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -493,36 +440,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_lpf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/biquad_filter/lpf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/biquad_filter/biquad.py">
+    <entry file="file://$PROJECT_DIR$/tests/context.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="34" />
+        <state relative-caret-position="90">
+          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <element signature="e#25#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/biquad_filter/__init__.py">
+    <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_lpf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -532,8 +489,24 @@
         <state relative-caret-position="135">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <element signature="e#25#58#0" expanded="true" />
+            <element signature="e#25#59#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biquad_filter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="true" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biquad_filter/biquad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="47" column="56" lean-forward="false" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="56" />
+          <folding />
         </state>
       </provider>
     </entry>
